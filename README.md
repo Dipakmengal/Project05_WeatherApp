@@ -4,9 +4,9 @@ A Python weather application built with **Requests**, **OpenWeather API**, and *
 
 ## 🚀 Live Demo
 
-After deployment on Streamlit Community Cloud, add your real app URL here:
 
-**[Open Live Demo](PASTE-YOUR-STREAMLIT-APP-URL-HERE)**
+
+**[Open Live Demo](https://project05weatherapp-7w7jcwbngrs7sumgwmt7cy.streamlit.app/)**
 
 ## Features
 
